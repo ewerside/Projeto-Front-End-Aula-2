@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 miau
+=======
+Agora adicionando um texto genérico.
+>>>>>>> e50a0c9e1d50d211c3a0c133215930f8e8a33595
